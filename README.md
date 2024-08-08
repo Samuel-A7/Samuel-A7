@@ -1,14 +1,15 @@
-## Oi 👋
-Boas vindas ao meu perfil:
+## Boas vindas ao meu perfil 💢
 Meu nome é Samuel A
 
-- Estou estudando na Alura
-- Estou me desenvolvendo na linguagem JavaScript
-- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando na Alura 👨‍🎓
+- Estou me desenvolvendo na linguagem JavaScript 👨‍💻
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos ✍
+- Torço pro Vasco 💢
 
   ## Você pode entrar em contato comigo 📫
   - 00001124234469sp@al.educacao.sp.gov.br
 
+![]([link](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fvasco-futebol-jogador-jogo-gif-5066273&psig=AOvVaw12ppioUaNoG5F_jo8JBZhd&ust=1723225778093000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCNDB7Ln65YcDFQAAAAAdAAAAABAE))
 <!--
 **Samuel-A7/Samuel-A7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
